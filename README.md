@@ -14,8 +14,8 @@ This is a fullstack book search engine connected to google, users are able to  c
 * [Node.js](https://nodejs.org/en/docs/)
 * [NPM-Library](https://docs.npmjs.com/)
 * [Expres.js](https://expressjs.com/)
-* [React.js] (https://reactjs.org/)
-* [Apollo] (https://www.apollographql.com/)
+* [React.js](https://reactjs.org/)
+* [Apollo](https://www.apollographql.com/)
 
 ## Installation Steps For Local Running
 1. Clone project.
